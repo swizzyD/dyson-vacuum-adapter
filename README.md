@@ -4,3 +4,6 @@ The final part was 3D printed.
 
 ![figure](https://github.com/swizzyD/dyson-vacuum-adapter/blob/main/images/adapter_photo.jpg?raw=true)
 
+
+![figure](https://github.com/swizzyD/dyson-vacuum-adapter/blob/main/images/attaching.gif?raw=true)
+
